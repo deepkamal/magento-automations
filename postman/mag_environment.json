@@ -1,0 +1,49 @@
+{
+	"id": "c5c1e745-cd27-42e7-951b-c7fb0159fdd0",
+	"name": "Magento-Local-M2NODAT",
+	"values": [
+		{
+			"key": "magento_api_admin",
+			"value": "http://dks.magento/m2nodat/rest/default/V1/",
+			"enabled": true
+		},
+		{
+			"key": "magento_api_customer",
+			"value": "http://dks.magento/m2nodat/rest/V1/",
+			"enabled": true
+		},
+		{
+			"key": "admin_token",
+			"value": "r6jg44cdrbvdnegzpapzfbjr93w8587f",
+			"enabled": true
+		},
+		{
+			"key": "customer_token",
+			"value": "8ztsqj5afj49xhzfdypkmm01m7g2fqls",
+			"enabled": true
+		},
+		{
+			"key": "customer_cart_quote_id",
+			"value": "17",
+			"enabled": true
+		},
+		{
+			"key": "magento_customer_id",
+			"value": "deepkamal.singh@adobe.com",
+			"enabled": true
+		},
+		{
+			"key": "magento_customer_pwd",
+			"value": "D1k2s3a4",
+			"enabled": true
+		},
+		{
+			"key": "magento_api_graphql",
+			"value": "http://dks.magento/m2nodat/graphql",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-03-16T10:49:12.511Z",
+	"_postman_exported_using": "Postman/7.19.1"
+}
